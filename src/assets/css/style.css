@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "Space-Mono";
+    src: url('./../fonts/SpaceMono-Regular.ttf');
+  }
+
+@font-face {
+font-family: "Space-Mono-Black";
+src: url('./../fonts/SpaceMono-Bold.ttf');
+}
+
+.img-404 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin:70px auto;
+}
+
+.text-right-h1{
+    font-family: Space-Mono-Black;
+    font-size: 68px;
+    text-align: left;
+    font-weight: 10px;
+    padding: 0px 70px;
+    margin: 50px auto;
+}
+
+.text-right-p {
+    font-family: Space-Mono;
+    font-size: 22px;
+    text-align: left;
+    font-weight: 10px;
+    padding: 0px 70px;
+    margin: 50px auto;
+}
+.text-right-button {
+    margin : 0px 345px 0px 0px;
+}
+.v-btn {
+    margin-left:70px;
+}
+
+.header-h3 {
+    font-family: Space-Mono;
+    margin:0px 0px 0px 50px;
+    font-size: 16px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .img-404 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+        margin:20px auto;
+    }
+    
+    .text-right-h1{
+        font-family: Space-Mono-Black;
+        font-size: 40px;
+        text-align: left;
+        font-weight: 10px;
+        padding: 0px 20px;
+        margin: 0px 0px -20px 0px;
+    }
+    
+    .text-right-p {
+        font-family: Space-Mono;
+        font-size: 16px;
+        text-align: left;
+        font-weight: 10px;
+        line-height: 30px;
+        padding: 0px 20px;
+        margin: 50px auto;
+    }
+
+    .v-btn {
+        margin-left:20px;
+    }
+
+    .header-h3 {
+        font-family: Space-Mono;
+        margin:0px 0px 0px 20px;
+        font-size: 12px;
+    }
+
+
+}
