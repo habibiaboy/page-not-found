@@ -1,7 +1,7 @@
 # page-not-found
 Create page not found with vue and using vuetify for css
 
-* **404 Page ** - [Create 404 page](https://devchallenges.io/)
+* [404 page](https://quirky-galileo-2bcc89.netlify.app)
 
 ## Project setup
 ```
