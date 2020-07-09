@@ -1,6 +1,10 @@
 # page-not-found
 Create page not found with vue and using vuetify for css
 
+
+# Deploy
+https://quirky-galileo-2bcc89.netlify.app
+
 ## Project setup
 ```
 npm install
