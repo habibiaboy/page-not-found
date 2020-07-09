@@ -1,8 +1,5 @@
 # page-not-found
 Create page not found with vue and using vuetify for css
-
-
-## Deploy
 ```
 https://quirky-galileo-2bcc89.netlify.app
 ```
@@ -37,3 +34,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Authors
 
 * **habibi** - *Initial work* - [Gentengman](https://github.com/habibiaboy)
+
