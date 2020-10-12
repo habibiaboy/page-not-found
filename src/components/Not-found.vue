@@ -8,7 +8,9 @@
             md="6"
             sm="12"
           >
-            <img class="img-404" src="../assets/img/Scarecrow.png"> 
+            
+            <img class="img-404" src="../assets/img/404-not.svg"> 
+          
           </v-col>
 
           <v-col
